@@ -1,6 +1,6 @@
 {
   "name": "@bahdcoder/ally-twitter-v2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Ally driver for Twitter v2 Oauth2 API",
   "main": "build/providers/index.js",
   "types": "./build/standalone.d.ts",
