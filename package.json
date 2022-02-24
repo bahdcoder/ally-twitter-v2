@@ -1,8 +1,9 @@
 {
   "name": "@bahdcoder/ally-twitter-v2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ally driver for Twitter v2 Oauth2 API",
   "main": "build/providers/index.js",
+  "types": "./build/adonis-typings/index.d.ts",
   "files": [
     "build/src",
     "build/providers",
@@ -57,9 +58,7 @@
   },
   "dependencies": {
     "@types/base64url": "^2.0.0",
-    "@types/randomstring": "^1.1.8",
-    "base64url": "^3.0.1",
-    "randomstring": "^1.2.2"
+    "base64url": "^3.0.1"
   },
   "publishConfig": {
     "access": "public"
